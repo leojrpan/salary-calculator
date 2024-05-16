@@ -22,7 +22,7 @@ Usage 🔍
 
 To run the calculator, download the repository and execute the script in your preferred Python environment. The calculator is interactive and prompts you for data step-by-step.
 
-git clone https://github.com/yourusername/salary-calculator.git
+git clone https://github.com/leojrpan/salary-calculator.git
 cd salary-calculator
 python calculadora_salarial.py
 
